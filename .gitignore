@@ -1,0 +1,4 @@
+# Environmet Variables
+.env
+# Built CV pdf
+*.pdf
