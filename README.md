@@ -1,28 +1,28 @@
 # Marcell Kovács
 
-**DevOps Engineer** | Budapest, HU\
-[$EMAIL](mailto:$EMAIL) | $PHONE\
-[github.com/kovacsmar](https://github.com/kovacsmar)
+**DevOps Engineer** | Budapest, Hungary\
+[me@kovacsmar.dev](mailto:me@kovacsmar.dev) | +36209615713\
+[LinkedIn](https://www.linkedin.com/in/marcell-kovács-761325241) | [github.com/kovacsmar](https://github.com/kovacsmar)
 
 ## PROFILE
 
-DevOps Engineer with a career spanning datacenter operations, systems administration, and cloud orchestration.
-I specialize in automating manual workflows using high-performance Go tooling and CI/CD optimization.
+DevOps Engineer with 5+ years transitioning from datacenter operations to cloud-native automation. Passionate about building Go-based CLI tools to automate workflows and deliver reliable products.
 
 ## TECH STACK
 
 - **Core Systems:** Linux (RHEL, Debian), Bash Scripting.
 - **Orchestration:** Kubernetes, Red Hat OpenShift, Docker.
 - **Development:** Go (Custom CLI tools, SDK integration), Python, REST APIs, Git.
-- **CI/CD:** Azure DevOps, Bitbucket Pipelines, Octopus Deploy.
-- **Cloud & IaC:** Azure (AKS, Functions), AWS (Lambda), Terraform, Ansible.
+- **CI/CD:** Azure DevOps, Bitbucket Pipelines.
+- **GitOps:** ArgoCD, Octopus Deploy.
+- **Cloud & IaC:** Azure (AKS, Functions), AWS (EKS, Lambda), Terraform, Ansible.
 - **Monitoring:** Grafana, Prometheus, Loki.
 
 ## PROFESSIONAL EXPERIENCE
 
 **DevOps Engineer | Sonrisa Kft.** _2025 – Present_
 
-- **Go Performance Tooling:** Replaced slow `az` CLI workflows with a custom Go CLI using Azure SDK, improving query performance by ~60% (15s → 5–7s) and enabling batch processing of 100k+ entities in minutes.
+- **Go:** Custom Azure CLI replacement, 60% faster queries, batch processing 100k+ entities
 - **Kubernetes Management:** Operated and maintained multiple production Kubernetes clusters. Currently overseeing the ongoing migration of ingresses from Ingress Nginx to Traefik.
 - **CI/CD Optimization:** Optimized monorepo CI/CD pipelines, reducing build duration from **44 minutes to 8 minutes**.
 - **Infrastructure as Code:** Developed and maintained modular Terraform stacks for Azure services such as AKS, Storage, Azure Database for PostgreSQL.
@@ -38,14 +38,18 @@ I specialize in automating manual workflows using high-performance Go tooling an
 - Monitored enterprise Linux/Windows server environments and VMware/Hyper-V virtualization.
 - Performed physical server diagnostics, hardware troubleshooting, and managed Docker Swarm container deployments.
 
+## Open Source / Projects
+
+- **[docker-workshop](https://github.com/kovacsmar/docker-workshop)** — Go web app with Gin, templ, htmx + Helm chart for K8s deployment
+- **[eks-terraform](https://github.com/kovacsmar/eks-terraform)** — EKS cluster with Terraform, Traefik ingress, ArgoCD
+- **[quiz](https://github.com/kovacsmar/quiz)** — Serverless quiz game POC with Terraform
+
 ## Education & Certification
 
-- **Computer Science BSc** (Incomplete) | _2021 – 2022_
-- **Physics BSc** (Incomplete) | _2016 – 2019_
+- **Computer Science BSc** (Partial completion) | Óbuda University
+- **Physics BSc** (Partial completion) | Budapest University of Technology and Economics
 
 ## LANGUAGES
 
 - **Hungarian:** Native
-- **English:** Professional Working Proficiency
-
-> _Generated from [kovacsmar/cv](https://github.com/kovacsmar/cv)_
+- **English:** B2 – Professional Working
