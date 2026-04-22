@@ -12,7 +12,7 @@ DevOps Engineer with 5+ years transitioning from datacenter operations to cloud-
 
 - **Core Systems:** Linux (RHEL, Debian), Bash Scripting.
 - **Orchestration:** Kubernetes, Red Hat OpenShift, Docker.
-- **Development:** Go (Custom CLI tools, SDK integration), Python, REST APIs, Git.
+- **Development:** Go , Python3, REST APIs, Git.
 - **CI/CD:** Azure DevOps, Bitbucket Pipelines.
 - **GitOps:** ArgoCD, Octopus Deploy.
 - **Cloud & IaC:** Azure (AKS, Functions), AWS (EKS, Lambda), Terraform, Ansible.
